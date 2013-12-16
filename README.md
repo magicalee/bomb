@@ -1,5 +1,5 @@
-##test1
-Test1 is a simple game on java.I used what I have learned now to write it which is just similar to the Minesweeper Flags installed in window.
+##bomb
+Bomb is a simple game on java.I used what I have learned now to write it which is just similar to the Minesweeper Flags installed in window.
 
 ##Getting start
     ./cd src
